@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%;
+    height: 100px;
+    background-color: #264653;
+    display: flex;
+    position: fixed;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    margin-top: 35px;
+    margin-inline: 60px;
+}
+
+.link:hover {
+    border-left: 1px solid white;
+}
+
+.img {
+    margin-left: 400px;
+    margin-right: 50px;
+}
