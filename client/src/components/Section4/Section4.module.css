@@ -1,6 +1,11 @@
 .section {
     padding-top: 50px;
     padding-bottom: 50px;
+    background-color: white;
+    margin-top: 100px;
+    width: 1600px;
+    margin-left: 150px;
+    border-radius: 25px;
 }
 
 .carousel {

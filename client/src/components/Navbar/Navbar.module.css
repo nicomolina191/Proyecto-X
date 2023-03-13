@@ -4,7 +4,7 @@
     background-color: #264653;
     display: flex;
     position: fixed;
-    
+    z-index: 1;
 }
 
 .cont_link {
@@ -15,11 +15,6 @@
     color: white;
     text-decoration: none;
     margin-inline: 30px;
-}
-
-.in {
-    position: relative;
-    left: 150px;
 }
 
 .link:hover {
