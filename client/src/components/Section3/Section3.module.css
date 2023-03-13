@@ -1,0 +1,55 @@
+.section {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 900px;
+}
+
+.title {
+    width: 300px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.text {
+    width: 300px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 300px;
+}
+
+.img {
+    width: 350px;
+    height: 250px;
+}
+
+
+.post1 {
+    display: grid;
+    margin-left: 300px;
+    margin-top: 80px;
+    height: 700px;
+}
+
+.post {
+    display: grid;
+    height: 300px;
+    width: 350px;
+}
+
+.blog {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.link {
+    margin: auto;
+}
+
+.post2 {
+    display: grid;
+    margin-left: 100px;
+    margin-top: 160px;
+    height: 700px;
+}
